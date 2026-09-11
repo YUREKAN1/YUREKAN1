@@ -16,3 +16,65 @@
 [![](https://komarev.com/ghpvc/?username=YUREKAN1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+## 🤖 Live GitHub Data
+
+<!-- AUTO-GENERATED:START -->
+
+### 📊 GitHub Statistics
+
+| Metric | Value |
+|---|---:|
+| Public Repositories | **10** |
+| Followers | **0** |
+| Following | **0** |
+| Total Stars | **4** |
+
+### 🧠 Most Used Languages
+
+- **Python** — 6 repositories
+- **TypeScript** — 2 repositories
+
+### 🚀 Recent Projects
+
+#### [CyberSentinel-AI](https://github.com/YUREKAN1/CyberSentinel-AI)
+
+AI-based cybersecurity monitoring dashboard for anomaly detection, threat analysis, and visualization of synthetic network security data.
+
+`Python` · ⭐ 0
+
+#### [Amdox-Intern-Projects](https://github.com/YUREKAN1/Amdox-Intern-Projects)
+
+Internship projects covering cryptocurrency data analytics and an AI-based task optimizer.
+
+`Python` · ⭐ 1
+
+#### [yurekan-portfolio](https://github.com/YUREKAN1/yurekan-portfolio)
+
+No description available.
+
+`TypeScript` · ⭐ 1
+
+#### [blood-inventory-forecasting-donor-matching-system](https://github.com/YUREKAN1/blood-inventory-forecasting-donor-matching-system)
+
+Full-stack blood inventory forecasting and donor matching system built with FastAPI, React, and SQLite.
+
+`Python` · ⭐ 1
+
+#### [Vision_Assistant](https://github.com/YUREKAN1/Vision_Assistant)
+
+Real-time computer vision assistant combining YOLO object detection, EasyOCR, face detection, and voice interaction.
+
+`Python` · ⭐ 0
+
+#### [Portfolio_Website](https://github.com/YUREKAN1/Portfolio_Website)
+
+No description available.
+
+`TypeScript` · ⭐ 0
+
+> 🔄 This section is automatically updated from GitHub.
+
+<!-- AUTO-GENERATED:END -->
