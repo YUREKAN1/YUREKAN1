@@ -34,7 +34,7 @@
 
 ### 🧠 Most Used Languages
 
-- **Python** — 6 repositories
+- **Python** — 7 repositories
 - **TypeScript** — 2 repositories
 
 ### 🚀 Recent Projects
