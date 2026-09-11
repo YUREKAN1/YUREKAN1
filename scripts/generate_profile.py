@@ -1,4 +1,5 @@
 import json
+import os
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -11,12 +12,19 @@ END_MARKER = "<!-- AUTO-GENERATED:END -->"
 
 
 def github_request(url):
+    headers = {
+        "Accept": "application/vnd.github+json",
+        "User-Agent": "YUREKAN1-profile-generator",
+    }
+
+    github_token = os.environ.get("GITHUB_TOKEN")
+
+    if github_token:
+        headers["Authorization"] = f"Bearer {github_token}"
+
     request = urllib.request.Request(
         url,
-        headers={
-            "Accept": "application/vnd.github+json",
-            "User-Agent": "YUREKAN1-profile-generator",
-        },
+        headers=headers,
     )
 
     with urllib.request.urlopen(request) as response:
