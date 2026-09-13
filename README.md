@@ -85,14 +85,14 @@ I learn best by building things — I'd rather turn an idea into a working proje
 
 | Metric | Value |
 |---|---:|
-| Public Repositories | **10** |
+| Public Repositories | **11** |
 | Followers | **0** |
 | Following | **0** |
 | Total Stars | **4** |
 
 ### 🧠 Most Used Languages
 
-- **Python** — 7 repositories
+- **Python** — 8 repositories
 - **TypeScript** — 2 repositories
 
 ### 🚀 Featured Projects
@@ -108,6 +108,12 @@ Internship projects covering cryptocurrency data analytics and an AI-based task 
 Full-stack blood inventory forecasting and donor matching system built with FastAPI, React, and SQLite.
 
 `Python` · ⭐ 1
+
+#### [leetcode-solutions](https://github.com/YUREKAN1/leetcode-solutions)
+
+My LeetCode problem solutions and DSA practice
+
+`Python` · ⭐ 0
 
 #### [CyberSentinel-AI](https://github.com/YUREKAN1/CyberSentinel-AI)
 
@@ -127,22 +133,16 @@ No description available.
 
 `TypeScript` · ⭐ 1
 
-#### [Portfolio_Website](https://github.com/YUREKAN1/Portfolio_Website)
-
-No description available.
-
-`TypeScript` · ⭐ 0
-
 ### ⚡ Recent GitHub Activity
 
+- 🌿 Created a branch in `leetcode-solutions`
+- 💻 Pushed changes to `leetcode-solutions`
 - ⭐ Starred `OmniRoute`
 - 🌿 Created a branch in `CyberSentinel-AI`
 - 💻 Pushed changes to `Amdox-Intern-Projects`
 - 💻 Pushed changes to `blood-inventory-forecasting-donor-matching-system`
 - 💻 Pushed changes to `yurekan-portfolio`
 - 💻 Pushed changes to `Vision_Assistant`
-- 🌿 Created a branch in `yurekan-portfolio`
-- 🌿 Created a branch in `Vision_Assistant`
 
 > 🔄 This section is automatically updated from GitHub.
 
