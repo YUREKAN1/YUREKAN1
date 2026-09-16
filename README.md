@@ -141,8 +141,6 @@ No description available.
 - 🌿 Created a branch in `CyberSentinel-AI`
 - 💻 Pushed changes to `Amdox-Intern-Projects`
 - 💻 Pushed changes to `blood-inventory-forecasting-donor-matching-system`
-- 💻 Pushed changes to `yurekan-portfolio`
-- 💻 Pushed changes to `Vision_Assistant`
 
 > 🔄 This section is automatically updated from GitHub.
 
