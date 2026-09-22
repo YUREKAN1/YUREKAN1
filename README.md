@@ -136,7 +136,6 @@ No description available.
 ### ⚡ Recent GitHub Activity
 
 - 💻 Pushed changes to `leetcode-solutions`
-- 🌿 Created a branch in `leetcode-solutions`
 
 > 🔄 This section is automatically updated from GitHub.
 
