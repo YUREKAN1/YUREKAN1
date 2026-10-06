@@ -85,14 +85,14 @@ I learn best by building things — I'd rather turn an idea into a working proje
 
 | Metric | Value |
 |---|---:|
-| Public Repositories | **11** |
+| Public Repositories | **12** |
 | Followers | **0** |
 | Following | **0** |
 | Total Stars | **4** |
 
 ### 🧠 Most Used Languages
 
-- **Python** — 8 repositories
+- **Python** — 9 repositories
 - **TypeScript** — 2 repositories
 
 ### 🚀 Featured Projects
@@ -108,6 +108,12 @@ Internship projects covering cryptocurrency data analytics and an AI-based task 
 Full-stack blood inventory forecasting and donor matching system built with FastAPI, React, and SQLite.
 
 `Python` · ⭐ 1
+
+#### [task-management-platform](https://github.com/YUREKAN1/task-management-platform)
+
+Task Management & Team Collaboration Platform built with FastAPI and PostgreSQL
+
+`Python` · ⭐ 0
 
 #### [leetcode-solutions](https://github.com/YUREKAN1/leetcode-solutions)
 
@@ -127,14 +133,9 @@ Real-time computer vision assistant combining YOLO object detection, EasyOCR, fa
 
 `Python` · ⭐ 0
 
-#### [yurekan-portfolio](https://github.com/YUREKAN1/yurekan-portfolio)
-
-No description available.
-
-`TypeScript` · ⭐ 1
-
 ### ⚡ Recent GitHub Activity
 
+- 🌿 Created a branch in `task-management-platform`
 - 💻 Pushed changes to `leetcode-solutions`
 
 > 🔄 This section is automatically updated from GitHub.
