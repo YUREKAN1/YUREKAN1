@@ -127,11 +127,11 @@ AI-based cybersecurity monitoring dashboard for anomaly detection, threat analys
 
 `Python` · ⭐ 0
 
-#### [Vision_Assistant](https://github.com/YUREKAN1/Vision_Assistant)
+#### [yurekan-portfolio](https://github.com/YUREKAN1/yurekan-portfolio)
 
-Real-time computer vision assistant combining YOLO object detection, EasyOCR, face detection, and voice interaction.
+No description available.
 
-`Python` · ⭐ 0
+`TypeScript` · ⭐ 1
 
 ### ⚡ Recent GitHub Activity
 
