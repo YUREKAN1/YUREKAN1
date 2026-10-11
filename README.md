@@ -121,20 +121,21 @@ My LeetCode problem solutions and DSA practice
 
 `Python` · ⭐ 0
 
-#### [CyberSentinel-AI](https://github.com/YUREKAN1/CyberSentinel-AI)
-
-AI-based cybersecurity monitoring dashboard for anomaly detection, threat analysis, and visualization of synthetic network security data.
-
-`Python` · ⭐ 0
-
 #### [yurekan-portfolio](https://github.com/YUREKAN1/yurekan-portfolio)
 
 No description available.
 
 `TypeScript` · ⭐ 1
 
+#### [CyberSentinel-AI](https://github.com/YUREKAN1/CyberSentinel-AI)
+
+AI-based cybersecurity monitoring dashboard for anomaly detection, threat analysis, and visualization of synthetic network security data.
+
+`Python` · ⭐ 0
+
 ### ⚡ Recent GitHub Activity
 
+- 💻 Pushed changes to `yurekan-portfolio`
 - 🌿 Created a branch in `task-management-platform`
 - 💻 Pushed changes to `leetcode-solutions`
 
