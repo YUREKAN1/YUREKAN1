@@ -109,15 +109,15 @@ Full-stack blood inventory forecasting and donor matching system built with Fast
 
 `Python` · ⭐ 1
 
-#### [task-management-platform](https://github.com/YUREKAN1/task-management-platform)
-
-Task Management & Team Collaboration Platform built with FastAPI and PostgreSQL
-
-`Python` · ⭐ 0
-
 #### [leetcode-solutions](https://github.com/YUREKAN1/leetcode-solutions)
 
 My LeetCode problem solutions and DSA practice
+
+`Python` · ⭐ 0
+
+#### [task-management-platform](https://github.com/YUREKAN1/task-management-platform)
+
+Task Management & Team Collaboration Platform built with FastAPI and PostgreSQL
 
 `Python` · ⭐ 0
 
