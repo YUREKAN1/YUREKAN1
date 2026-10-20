@@ -97,9 +97,9 @@ I learn best by building things — I'd rather turn an idea into a working proje
 
 ### 🚀 Featured Projects
 
-#### [Amdox-Intern-Projects](https://github.com/YUREKAN1/Amdox-Intern-Projects)
+#### [task-management-platform](https://github.com/YUREKAN1/task-management-platform)
 
-Internship projects covering cryptocurrency data analytics and an AI-based task optimizer.
+Task Management & Team Collaboration Platform built with FastAPI and PostgreSQL
 
 `Python` · ⭐ 1
 
@@ -109,15 +109,15 @@ Full-stack blood inventory forecasting and donor matching system built with Fast
 
 `Python` · ⭐ 1
 
-#### [leetcode-solutions](https://github.com/YUREKAN1/leetcode-solutions)
+#### [Amdox-Intern-Projects](https://github.com/YUREKAN1/Amdox-Intern-Projects)
 
-My LeetCode problem solutions and DSA practice
+Internship projects covering cryptocurrency data analytics and an AI-based task optimizer.
 
 `Python` · ⭐ 0
 
-#### [task-management-platform](https://github.com/YUREKAN1/task-management-platform)
+#### [leetcode-solutions](https://github.com/YUREKAN1/leetcode-solutions)
 
-Task Management & Team Collaboration Platform built with FastAPI and PostgreSQL
+My LeetCode problem solutions and DSA practice
 
 `Python` · ⭐ 0
 
@@ -136,8 +136,6 @@ AI-based cybersecurity monitoring dashboard for anomaly detection, threat analys
 ### ⚡ Recent GitHub Activity
 
 - 💻 Pushed changes to `leetcode-solutions`
-- 💻 Pushed changes to `yurekan-portfolio`
-- 🌿 Created a branch in `task-management-platform`
 
 > 🔄 This section is automatically updated from GitHub.
 
