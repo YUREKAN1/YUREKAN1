@@ -109,15 +109,15 @@ Full-stack blood inventory forecasting and donor matching system built with Fast
 
 `Python` · ⭐ 1
 
-#### [Amdox-Intern-Projects](https://github.com/YUREKAN1/Amdox-Intern-Projects)
-
-Internship projects covering cryptocurrency data analytics and an AI-based task optimizer.
-
-`Python` · ⭐ 0
-
 #### [leetcode-solutions](https://github.com/YUREKAN1/leetcode-solutions)
 
 My LeetCode problem solutions and DSA practice
+
+`Python` · ⭐ 0
+
+#### [Amdox-Intern-Projects](https://github.com/YUREKAN1/Amdox-Intern-Projects)
+
+Internship projects covering cryptocurrency data analytics and an AI-based task optimizer.
 
 `Python` · ⭐ 0
 
@@ -136,6 +136,7 @@ AI-based cybersecurity monitoring dashboard for anomaly detection, threat analys
 ### ⚡ Recent GitHub Activity
 
 - 💻 Pushed changes to `leetcode-solutions`
+- ⭐ Starred `rea`
 
 > 🔄 This section is automatically updated from GitHub.
 
