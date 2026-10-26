@@ -136,7 +136,6 @@ AI-based cybersecurity monitoring dashboard for anomaly detection, threat analys
 ### ⚡ Recent GitHub Activity
 
 - 💻 Pushed changes to `leetcode-solutions`
-- ⭐ Starred `rea`
 
 > 🔄 This section is automatically updated from GitHub.
 
