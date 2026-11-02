@@ -85,14 +85,14 @@ I learn best by building things — I'd rather turn an idea into a working proje
 
 | Metric | Value |
 |---|---:|
-| Public Repositories | **12** |
+| Public Repositories | **13** |
 | Followers | **0** |
 | Following | **0** |
 | Total Stars | **4** |
 
 ### 🧠 Most Used Languages
 
-- **Python** — 9 repositories
+- **Python** — 10 repositories
 - **TypeScript** — 2 repositories
 
 ### 🚀 Featured Projects
@@ -108,6 +108,12 @@ Task Management & Team Collaboration Platform built with FastAPI and PostgreSQL
 Full-stack blood inventory forecasting and donor matching system built with FastAPI, React, and SQLite.
 
 `Python` · ⭐ 1
+
+#### [Python-Voice-Assistant](https://github.com/YUREKAN1/Python-Voice-Assistant)
+
+A Python-based voice assistant featuring speech recognition, text-to-speech, intent recognition, weather updates, web search, timed reminders, a local knowledge base, and customizable voice commands.
+
+`Python` · ⭐ 0
 
 #### [leetcode-solutions](https://github.com/YUREKAN1/leetcode-solutions)
 
@@ -126,12 +132,6 @@ Internship projects covering cryptocurrency data analytics and an AI-based task 
 No description available.
 
 `TypeScript` · ⭐ 1
-
-#### [CyberSentinel-AI](https://github.com/YUREKAN1/CyberSentinel-AI)
-
-AI-based cybersecurity monitoring dashboard for anomaly detection, threat analysis, and visualization of synthetic network security data.
-
-`Python` · ⭐ 0
 
 ### ⚡ Recent GitHub Activity
 
