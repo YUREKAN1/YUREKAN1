@@ -109,15 +109,15 @@ Full-stack blood inventory forecasting and donor matching system built with Fast
 
 `Python` · ⭐ 1
 
-#### [Python-Voice-Assistant](https://github.com/YUREKAN1/Python-Voice-Assistant)
-
-A Python-based voice assistant featuring speech recognition, text-to-speech, intent recognition, weather updates, web search, timed reminders, a local knowledge base, and customizable voice commands.
-
-`Python` · ⭐ 0
-
 #### [leetcode-solutions](https://github.com/YUREKAN1/leetcode-solutions)
 
 My LeetCode problem solutions and DSA practice
+
+`Python` · ⭐ 0
+
+#### [Python-Voice-Assistant](https://github.com/YUREKAN1/Python-Voice-Assistant)
+
+A Python-based voice assistant featuring speech recognition, text-to-speech, intent recognition, weather updates, web search, timed reminders, a local knowledge base, and customizable voice commands.
 
 `Python` · ⭐ 0
 
@@ -136,6 +136,7 @@ No description available.
 ### ⚡ Recent GitHub Activity
 
 - 💻 Pushed changes to `leetcode-solutions`
+- 🌿 Created a branch in `Python-Voice-Assistant`
 - ⭐ Starred `creditrootx`
 - ⭐ Starred `Cybersecurity-Threat-Detection---URL-Masking-Analysis`
 - ⭐ Starred `ZENTRION-TERMINAL`
