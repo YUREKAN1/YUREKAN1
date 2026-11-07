@@ -140,7 +140,6 @@ No description available.
 - ⭐ Starred `creditrootx`
 - ⭐ Starred `Cybersecurity-Threat-Detection---URL-Masking-Analysis`
 - ⭐ Starred `ZENTRION-TERMINAL`
-- ⭐ Starred `UltraExtractor---AI-Chat-to-Real-Project-Files`
 
 > 🔄 This section is automatically updated from GitHub.
 
