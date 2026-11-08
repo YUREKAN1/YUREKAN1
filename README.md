@@ -137,9 +137,6 @@ No description available.
 
 - 💻 Pushed changes to `leetcode-solutions`
 - 🌿 Created a branch in `Python-Voice-Assistant`
-- ⭐ Starred `creditrootx`
-- ⭐ Starred `Cybersecurity-Threat-Detection---URL-Masking-Analysis`
-- ⭐ Starred `ZENTRION-TERMINAL`
 
 > 🔄 This section is automatically updated from GitHub.
 
