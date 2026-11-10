@@ -127,11 +127,11 @@ Internship projects covering cryptocurrency data analytics and an AI-based task 
 
 `Python` · ⭐ 0
 
-#### [yurekan-portfolio](https://github.com/YUREKAN1/yurekan-portfolio)
+#### [CyberSentinel-AI](https://github.com/YUREKAN1/CyberSentinel-AI)
 
-No description available.
+AI-based cybersecurity monitoring dashboard for anomaly detection, threat analysis, and visualization of synthetic network security data.
 
-`TypeScript` · ⭐ 1
+`Python` · ⭐ 0
 
 ### ⚡ Recent GitHub Activity
 
