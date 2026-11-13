@@ -85,14 +85,14 @@ I learn best by building things — I'd rather turn an idea into a working proje
 
 | Metric | Value |
 |---|---:|
-| Public Repositories | **13** |
+| Public Repositories | **15** |
 | Followers | **0** |
 | Following | **0** |
 | Total Stars | **4** |
 
 ### 🧠 Most Used Languages
 
-- **Python** — 10 repositories
+- **Python** — 12 repositories
 - **TypeScript** — 2 repositories
 
 ### 🚀 Featured Projects
@@ -109,6 +109,18 @@ Full-stack blood inventory forecasting and donor matching system built with Fast
 
 `Python` · ⭐ 1
 
+#### [BMI-Calculator](https://github.com/YUREKAN1/BMI-Calculator)
+
+Advanced Python BMI Calculator with Tkinter, SQLite and Matplotlib
+
+`Python` · ⭐ 0
+
+#### [Random-Password-Generator](https://github.com/YUREKAN1/Random-Password-Generator)
+
+A secure Python password generator with a Tkinter GUI, customizable character options, password strength indicator, clipboard integration, and temporary password history using Python's secrets module.
+
+`Python` · ⭐ 0
+
 #### [leetcode-solutions](https://github.com/YUREKAN1/leetcode-solutions)
 
 My LeetCode problem solutions and DSA practice
@@ -121,20 +133,9 @@ A Python-based voice assistant featuring speech recognition, text-to-speech, int
 
 `Python` · ⭐ 0
 
-#### [Amdox-Intern-Projects](https://github.com/YUREKAN1/Amdox-Intern-Projects)
-
-Internship projects covering cryptocurrency data analytics and an AI-based task optimizer.
-
-`Python` · ⭐ 0
-
-#### [CyberSentinel-AI](https://github.com/YUREKAN1/CyberSentinel-AI)
-
-AI-based cybersecurity monitoring dashboard for anomaly detection, threat analysis, and visualization of synthetic network security data.
-
-`Python` · ⭐ 0
-
 ### ⚡ Recent GitHub Activity
 
+- 🌿 Created a branch in `Random-Password-Generator`
 - 💻 Pushed changes to `leetcode-solutions`
 
 > 🔄 This section is automatically updated from GitHub.
