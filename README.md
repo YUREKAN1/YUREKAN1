@@ -85,14 +85,14 @@ I learn best by building things — I'd rather turn an idea into a working proje
 
 | Metric | Value |
 |---|---:|
-| Public Repositories | **15** |
+| Public Repositories | **16** |
 | Followers | **0** |
 | Following | **0** |
 | Total Stars | **4** |
 
 ### 🧠 Most Used Languages
 
-- **Python** — 12 repositories
+- **Python** — 13 repositories
 - **TypeScript** — 2 repositories
 
 ### 🚀 Featured Projects
@@ -108,6 +108,12 @@ Task Management & Team Collaboration Platform built with FastAPI and PostgreSQL
 Full-stack blood inventory forecasting and donor matching system built with FastAPI, React, and SQLite.
 
 `Python` · ⭐ 1
+
+#### [Weather-App](https://github.com/YUREKAN1/Weather-App)
+
+Advanced Python Weather Application using Tkinter and OpenWeatherMap API
+
+`Python` · ⭐ 0
 
 #### [BMI-Calculator](https://github.com/YUREKAN1/BMI-Calculator)
 
@@ -127,16 +133,13 @@ My LeetCode problem solutions and DSA practice
 
 `Python` · ⭐ 0
 
-#### [Python-Voice-Assistant](https://github.com/YUREKAN1/Python-Voice-Assistant)
-
-A Python-based voice assistant featuring speech recognition, text-to-speech, intent recognition, weather updates, web search, timed reminders, a local knowledge base, and customizable voice commands.
-
-`Python` · ⭐ 0
-
 ### ⚡ Recent GitHub Activity
 
-- 🌿 Created a branch in `Random-Password-Generator`
+- 💻 Pushed changes to `BMI-Calculator`
 - 💻 Pushed changes to `leetcode-solutions`
+- 🌿 Created a branch in `BMI-Calculator`
+- 🌿 Created a branch in `Weather-App`
+- 🌿 Created a branch in `Random-Password-Generator`
 
 > 🔄 This section is automatically updated from GitHub.
 
