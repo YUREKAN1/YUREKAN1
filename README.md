@@ -85,14 +85,14 @@ I learn best by building things — I'd rather turn an idea into a working proje
 
 | Metric | Value |
 |---|---:|
-| Public Repositories | **16** |
+| Public Repositories | **17** |
 | Followers | **0** |
 | Following | **0** |
 | Total Stars | **4** |
 
 ### 🧠 Most Used Languages
 
-- **Python** — 13 repositories
+- **Python** — 14 repositories
 - **TypeScript** — 2 repositories
 
 ### 🚀 Featured Projects
@@ -108,6 +108,12 @@ Task Management & Team Collaboration Platform built with FastAPI and PostgreSQL
 Full-stack blood inventory forecasting and donor matching system built with FastAPI, React, and SQLite.
 
 `Python` · ⭐ 1
+
+#### [Chat-Studio](https://github.com/YUREKAN1/Chat-Studio)
+
+A Python-based multi-user desktop chat application using TCP sockets and Tkinter.
+
+`Python` · ⭐ 0
 
 #### [Weather-App](https://github.com/YUREKAN1/Weather-App)
 
@@ -127,16 +133,10 @@ A secure Python password generator with a Tkinter GUI, customizable character op
 
 `Python` · ⭐ 0
 
-#### [leetcode-solutions](https://github.com/YUREKAN1/leetcode-solutions)
-
-My LeetCode problem solutions and DSA practice
-
-`Python` · ⭐ 0
-
 ### ⚡ Recent GitHub Activity
 
-- 💻 Pushed changes to `BMI-Calculator`
 - 💻 Pushed changes to `leetcode-solutions`
+- 💻 Pushed changes to `BMI-Calculator`
 - 🌿 Created a branch in `BMI-Calculator`
 - 🌿 Created a branch in `Weather-App`
 - 🌿 Created a branch in `Random-Password-Generator`
