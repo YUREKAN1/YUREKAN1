@@ -136,6 +136,9 @@ A secure Python password generator with a Tkinter GUI, customizable character op
 ### ⚡ Recent GitHub Activity
 
 - 💻 Pushed changes to `leetcode-solutions`
+- ⭐ Starred `youtube-automation-agent`
+- ⭐ Starred `NarratoAI`
+- ⭐ Starred `vcard-personal-portfolio`
 - 💻 Pushed changes to `BMI-Calculator`
 - 🌿 Created a branch in `BMI-Calculator`
 - 🌿 Created a branch in `Weather-App`
