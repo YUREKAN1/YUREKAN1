@@ -141,8 +141,6 @@ A secure Python password generator with a Tkinter GUI, customizable character op
 - ⭐ Starred `vcard-personal-portfolio`
 - 💻 Pushed changes to `BMI-Calculator`
 - 🌿 Created a branch in `BMI-Calculator`
-- 🌿 Created a branch in `Weather-App`
-- 🌿 Created a branch in `Random-Password-Generator`
 
 > 🔄 This section is automatically updated from GitHub.
 
