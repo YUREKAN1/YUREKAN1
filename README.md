@@ -139,8 +139,6 @@ A secure Python password generator with a Tkinter GUI, customizable character op
 - ⭐ Starred `youtube-automation-agent`
 - ⭐ Starred `NarratoAI`
 - ⭐ Starred `vcard-personal-portfolio`
-- 💻 Pushed changes to `BMI-Calculator`
-- 🌿 Created a branch in `BMI-Calculator`
 
 > 🔄 This section is automatically updated from GitHub.
 
