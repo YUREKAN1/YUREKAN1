@@ -109,6 +109,12 @@ Full-stack blood inventory forecasting and donor matching system built with Fast
 
 `Python` · ⭐ 1
 
+#### [BMI-Calculator](https://github.com/YUREKAN1/BMI-Calculator)
+
+Advanced Python BMI Calculator with Tkinter, SQLite and Matplotlib
+
+`Python` · ⭐ 0
+
 #### [Chat-Studio](https://github.com/YUREKAN1/Chat-Studio)
 
 A Python-based multi-user desktop chat application using TCP sockets and Tkinter.
@@ -121,12 +127,6 @@ Advanced Python Weather Application using Tkinter and OpenWeatherMap API
 
 `Python` · ⭐ 0
 
-#### [BMI-Calculator](https://github.com/YUREKAN1/BMI-Calculator)
-
-Advanced Python BMI Calculator with Tkinter, SQLite and Matplotlib
-
-`Python` · ⭐ 0
-
 #### [Random-Password-Generator](https://github.com/YUREKAN1/Random-Password-Generator)
 
 A secure Python password generator with a Tkinter GUI, customizable character options, password strength indicator, clipboard integration, and temporary password history using Python's secrets module.
@@ -136,9 +136,6 @@ A secure Python password generator with a Tkinter GUI, customizable character op
 ### ⚡ Recent GitHub Activity
 
 - 💻 Pushed changes to `leetcode-solutions`
-- ⭐ Starred `youtube-automation-agent`
-- ⭐ Starred `NarratoAI`
-- ⭐ Starred `vcard-personal-portfolio`
 
 > 🔄 This section is automatically updated from GitHub.
 
