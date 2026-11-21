@@ -135,6 +135,7 @@ A secure Python password generator with a Tkinter GUI, customizable character op
 
 ### ⚡ Recent GitHub Activity
 
+- 💻 Pushed changes to `BMI-Calculator`
 - 💻 Pushed changes to `leetcode-solutions`
 
 > 🔄 This section is automatically updated from GitHub.
